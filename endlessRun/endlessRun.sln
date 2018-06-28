@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "endlessRun.Plugins", "endlessRun.Plugins.csproj", "{97CD730A-DB3E-7B35-86D7-CF530A9DB7F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "endlessRun", "endlessRun.csproj", "{C2D31498-96BB-58E4-00B9-C102903903AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "endlessRun.Editor.Plugins", "endlessRun.Editor.Plugins.csproj", "{F1A376B1-D1C7-50E7-7AB7-037B60AB9ED2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97CD730A-DB3E-7B35-86D7-CF530A9DB7F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97CD730A-DB3E-7B35-86D7-CF530A9DB7F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97CD730A-DB3E-7B35-86D7-CF530A9DB7F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97CD730A-DB3E-7B35-86D7-CF530A9DB7F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2D31498-96BB-58E4-00B9-C102903903AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2D31498-96BB-58E4-00B9-C102903903AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2D31498-96BB-58E4-00B9-C102903903AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2D31498-96BB-58E4-00B9-C102903903AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1A376B1-D1C7-50E7-7AB7-037B60AB9ED2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1A376B1-D1C7-50E7-7AB7-037B60AB9ED2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1A376B1-D1C7-50E7-7AB7-037B60AB9ED2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1A376B1-D1C7-50E7-7AB7-037B60AB9ED2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
